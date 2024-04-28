@@ -1,0 +1,19 @@
+# Project exclude paths
+/.gradle/
+/chapter02/build/
+/chapter03/build/
+/chapter04/build/
+/chapter04-boot/build/
+/chapter05/build/
+/chapter05-boot/build/
+/chapter06/build/
+/chapter06-boot/build/
+/chapter07/build/
+/chapter07-boot/build/
+/chapter07-jooq/build/
+/chapter14/build/
+/chapter15/build/
+/chapter16-native-boot/build/
+/chapter17/build/
+/chapter18/build/
+/chapter19/build/
